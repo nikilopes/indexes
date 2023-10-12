@@ -2,10 +2,10 @@
   "sentiment": {
     "value": 82.1
   },
-  "response_with_reply": {
+  "post_with_reply": {
     "value": 10
   },
-  "response": {
+  "post": {
     "value": 100
   }
 }
