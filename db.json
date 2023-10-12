@@ -1,20 +1,6 @@
 {
   "sentiment": {
-    "value": 82.1,
-    "series": [
-      {
-        "id": "2023-01-01",
-        "value": 80.0
-      },
-      {
-        "id": "2023-02-01",
-        "value": 40.0
-      },
-      {
-        "id": "2023-03-01",
-        "value": 90.0
-      }
-    ]
+    "value": 82.1
   },
   "response_with_reply": {
     "value": 10
