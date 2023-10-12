@@ -16,6 +16,10 @@
       }
     ]
   },
-  "response_with_reply": 10,
-  "response": 100
+  "response_with_reply": {
+    "value": 10
+  },
+  "response": {
+    "value": 100
+  }
 }
